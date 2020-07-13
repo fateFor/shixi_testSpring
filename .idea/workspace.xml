@@ -2,91 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1868b984-5cc6-409a-8e69-80558a1cd812" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test01/hello/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test01/hello/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test02/ref/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test02/ref/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test02/ref/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test03/prop/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/dao/EmpDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/entity/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test04/annotation/test/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/aop/proxy/CountImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/aop/proxy/CountLogImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/aop/proxy/CountLogProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/aop/proxy/ICount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test05/aop/proxy/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/CountImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/ICount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/validate/ValidateAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/dao/BookShopDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/dao/IBookShopDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/exception/AccountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/exception/BookStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/service/BookShopServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/service/CashierServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/service/IBookShopService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/service/ICashierService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bj/test07/trans/test/TestSpringTrans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/beans_test02_ref.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/beans_test03_prop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/beans_test04_annotation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/beans_test06_aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/beans_test07_trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/shixiTest1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans_test02_ref.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans_test03_prop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans_test04_annotation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans_test06_aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/beans_test07_trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test01/hello/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test01/hello/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test02/ref/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test02/ref/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test02/ref/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test03/prop/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/dao/EmpDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/dao/IDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/entity/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test04/annotation/test/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/CountImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/CountLogImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/CountLogProxy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/CountLogProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/ICount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/CountImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/ICount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/LogAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/validate/ValidateAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/dao/BookShopDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/dao/IBookShopDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/exception/AccountException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/exception/BookStockException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/service/BookShopServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/service/CashierServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/service/IBookShopService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/service/ICashierService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bj/test07/trans/test/TestSpringTrans.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bj/AppTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bj/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bj/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bj/test06/aop/aspect/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/CountLogProxy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/CountLogProxy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bj/test05/aop/proxy/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bj/test06/aop/aspect/MainTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,42 +78,35 @@
       <recent name="E:\IdeaCode\shixiTest1\src\main\java\com\bj\test02\ref" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSpringTrans.testUpdateBalance">
-    <configuration name="MainTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bj.test04.annotation.test.MainTest" />
+  <component name="RunManager" selected="JUnit.TestSpringTrans.testCash">
+    <configuration name="TestSpringTrans.testCash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shixiTest1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bj.test04.annotation.test.*" />
+          <option name="PATTERN" value="com.bj.test07.trans.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test07.trans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test07.trans.test.TestSpringTrans" />
+      <option name="METHOD_NAME" value="testCash" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bj.test05.aop.proxy.MainTest" />
+    <configuration name="TestSpringTrans.testPurchase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shixiTest1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bj.test05.aop.proxy.*" />
+          <option name="PATTERN" value="com.bj.test07.trans.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bj.test06.aop.aspect.MainTest" />
-      <module name="shixiTest1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bj.test06.aop.aspect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test07.trans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test07.trans.test.TestSpringTrans" />
+      <option name="METHOD_NAME" value="testPurchase" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -230,13 +143,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSpringTrans.testUpdateStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shixiTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bj.test07.trans.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bj.test07.trans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bj.test07.trans.test.TestSpringTrans" />
+      <option name="METHOD_NAME" value="testUpdateStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSpringTrans.testCash" />
+        <item itemvalue="JUnit.TestSpringTrans.testPurchase" />
         <item itemvalue="JUnit.TestSpringTrans.testUpdateBalance" />
+        <item itemvalue="JUnit.TestSpringTrans.testUpdateStock" />
         <item itemvalue="JUnit.TestSpringTrans.testSelectPrice" />
-        <item itemvalue="Application.MainTest (5)" />
-        <item itemvalue="Application.MainTest (4)" />
-        <item itemvalue="Application.MainTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594632074512</updated>
-      <workItem from="1594632077737" duration="10391000" />
+      <workItem from="1594632077737" duration="15032000" />
     </task>
     <task id="LOCAL-00001" summary="完成maven项目搭建">
       <created>1594634045386</created>
@@ -271,7 +200,28 @@
       <option name="project" value="LOCAL" />
       <updated>1594634045386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成maven项目搭建">
+      <created>1594643656794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594643656794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成maven项目搭建">
+      <created>1594644410591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594644410591</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成maven项目搭建">
+      <created>1594645266726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594645266726</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,38 +240,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594637104796" />
-    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1594634044501">
+    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1594645265757">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594634044501" />
+    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594645265757" />
     <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1594633959522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594633959522" />
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1594643174211">
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1594652570239">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594643174211" />
-    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1594643174211">
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594652570239" />
+    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1594652570239">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594643174211" />
-    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1594643174211">
+    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594652570239" />
+    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1594652570238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594643174211" />
-    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1594643174211">
+    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594652570238" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1594652570239">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594643174211" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594652570239" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1594634737925">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594634737925" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1594635779845">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1594645273320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594635779845" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594645273320" />
     <state x="457" y="167" width="621" height="490" key="find.popup" timestamp="1594637036114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

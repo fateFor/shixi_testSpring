@@ -15,8 +15,11 @@ public class MainTest {
         int result1 = bean.add(10, 20);
         System.out.println("-->result1 = "+result1);
 
-        int result2 = bean.div(20, 0);
+        int result2 = bean.sub(15, 3);
         System.out.println("-->result2 = "+result2);
+
+        int result3 = bean.div(20, 0);
+        System.out.println("-->result3 = "+result3);
     }
 
 }
