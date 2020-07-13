@@ -21,7 +21,7 @@ public class MainTest {
         int result1 = proxy.sub(5, 2);
         System.out.println("-->result1 = "+result1);
 
-        int result2 = proxy.div(10, 0);
+        int result2 = proxy.div(10, 2);
         System.out.println("-->result2 = "+result2);
     }
 

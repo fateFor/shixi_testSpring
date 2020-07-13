@@ -61,7 +61,7 @@ public class CountLogProxy {
                     System.out.println("日志追踪： the method "+methodName+" 抛出异常： "+e.getMessage());
                 }
                 //后置通知
-                System.out.println("日志追踪：the methods "+methodName+" end with ");
+                //System.out.println("日志追踪：the methods "+methodName+" end with ");
                 return result;
             }
         };
