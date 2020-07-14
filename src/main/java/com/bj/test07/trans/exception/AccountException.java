@@ -1,6 +1,6 @@
 package com.bj.test07.trans.exception;
 
-public class AccountException extends  Exception {
+public class AccountException extends  RuntimeException {
 
     public AccountException() {
     }
